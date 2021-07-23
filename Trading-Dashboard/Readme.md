@@ -13,11 +13,14 @@
 <img src="https://github.com/AtharvaParikh/LowCode-NoCode-Projects/blob/main/Trading-Dashboard/graph1.png"/>
 
 ## Slack Integration
-<img src="https://github.com/AtharvaParikh/LowCode-NoCode-Projects/blob/main/Trading-Dashboard/graph2%20and%20Slack.png"/>
+<img src="https://github.com/AtharvaParikh/LowCode-NoCode-Projects/blob/main/Trading-Dashboard/slack.png"/>
+<img src="https://github.com/AtharvaParikh/LowCode-NoCode-Projects/blob/main/Trading-Dashboard/slack2.png"/>
 
 ## Click on icon to view the application 👀
 [<img src="https://latkasaashackers.com/assets/img/comp-logos/retool.png" alt="Retool Logo" width="200"/>](https://atharvaparikh07.retool.com/embedded/public/d80a42d1-1e40-46b8-a1c9-70a02be42a6d)<br>
+
 ### If you have any additional ideas do reach out, I would love to discuss 🙌🏻
+### Download and Import the json file if you want to edit this application at your end 
 
 ## Resource:
 [<img src="https://upload.wikimedia.org/wikipedia/commons/3/39/FreeCodeCamp_logo.png" width="200"/>](https://www.youtube.com/watch?v=skq7E2xS1Bo)

@@ -13,9 +13,14 @@ Custom Message            |  Received Message
 
 ## API's Used
 > ### Do read the docs for better understanding of their usage
-- ### Coin API
-[<img src="https://bitcoinexchangeguide.com/wp-content/uploads/2018/01/CoinAPI.jpg" width="200"/>](https://www.coinapi.io/pricing?apikey)
+- ### [Coin API](https://www.coinapi.io/pricing?apikey)
+- ### [Twilio API](https://www.twilio.com/)
 
+## Click on icon to view the application 👀
+[<img src="https://latkasaashackers.com/assets/img/comp-logos/retool.png" alt="Retool Logo" width="200"/>](https://atharvaparikh07.retool.com/embedded/public/1471a3fb-072a-4567-9e87-b34597d134a5)<br>
 
-- ### Twilio API
-[<img src="https://vectorlogoseek.com/wp-content/uploads/2018/12/twilio-vector-logo.png" width="200"/>](https://www.twilio.com/)
+### If you have any additional ideas do reach out, I would love to discuss 🙌🏻
+### Download and Import the json file if you want to edit this application at your end 
+
+## Resource:
+[<img src="https://upload.wikimedia.org/wikipedia/commons/3/39/FreeCodeCamp_logo.png" width="200"/>](https://www.youtube.com/watch?v=skq7E2xS1Bo)

@@ -20,7 +20,7 @@
 <img src="https://github.com/AtharvaParikh/LowCode-NoCode-Projects/blob/main/Trading-Dashboard/images/slack2.png"/>
 
 ### If you have any additional ideas do reach out, I would love to discuss 🙌🏻
-### [Download and Import the json file](https://github.com/AtharvaParikh/LowCode-NoCode-Projects/blob/main/Trading-Dashboard/TradingDashboard.json) if you want to edit this application at your end 
+### [Download and Import the json file](https://github.com/AtharvaParikh/LowCode-NoCode-Projects/blob/main/Trading-Dashboard/TradingDashboard.json) if you want to edit this application in your retool account
 
 ## Resource:
 [<img src="https://upload.wikimedia.org/wikipedia/commons/3/39/FreeCodeCamp_logo.png" width="200"/>](https://www.youtube.com/watch?v=skq7E2xS1Bo)

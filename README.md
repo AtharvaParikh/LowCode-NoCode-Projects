@@ -1,5 +1,5 @@
 # LowCode-NoCode-Projects
-### Repo containing 3 Financial Projects made using Low-Code/No-Code application - [Retool](https://retool.com/)
+### Repo containing 3 Financial Applications made using Low-Code/No-Code application - [Retool](https://retool.com/)
 
 
 ## What's Low Code/No Code?

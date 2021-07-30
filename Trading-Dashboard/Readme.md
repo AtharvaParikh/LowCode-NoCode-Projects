@@ -19,6 +19,9 @@
 <img src="https://github.com/AtharvaParikh/LowCode-NoCode-Projects/blob/main/Trading-Dashboard/images/slack.png"/>
 <img src="https://github.com/AtharvaParikh/LowCode-NoCode-Projects/blob/main/Trading-Dashboard/images/slack2.png"/>
 
+### [Slack](https://api.slack.com/) API was used
+> ### Do read the docs for better understanding of their usage
+
 ### If you have any additional ideas do reach out, I would love to discuss 🙌🏻
 ### [Download and Import the json file](https://github.com/AtharvaParikh/LowCode-NoCode-Projects/blob/main/Trading-Dashboard/TradingDashboard.json) if you want to edit this application in your retool account
 

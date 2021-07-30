@@ -15,7 +15,7 @@
 #### Data is added using this form
 <img src="https://github.com/AtharvaParikh/LowCode-NoCode-Projects/blob/main/Invoice-Tracker/images/invoice form.png"/>
 
-- ### [DataStax](https://astra.datastax.com/) API was used with [GraphQL](https://graphql.org/)
+### [DataStax](https://astra.datastax.com/) API was used with [GraphQL](https://graphql.org/)
 > ### Do read the docs for better understanding of their usage
 
 ### If you have any additional ideas do reach out, I would love to discuss 🙌🏻

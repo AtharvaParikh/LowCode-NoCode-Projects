@@ -1,2 +1,2 @@
 # LowCode-NoCode-Projects
-Repo containing all the low code/no code projects built by yours truly.
+Repo containing 3 Financial Projects made by using Low-Code/No-Code application [Retool](https://retool.com/)

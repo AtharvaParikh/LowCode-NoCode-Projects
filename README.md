@@ -1,5 +1,5 @@
 # LowCode-NoCode-Projects
-### Repo containing 3 Financial Applications made using Low-Code/No-Code application - [Retool](https://retool.com/)
+### Repo containing 4 Applications made using Low-Code/No-Code application - [Retool](https://retool.com/)
 
 
 ## What's Low Code/No Code?
@@ -11,4 +11,5 @@
 - ### [Crypto Dashboard](https://atharvaparikh07.retool.com/embedded/public/1471a3fb-072a-4567-9e87-b34597d134a5)
 - ### [Invoice Tracker](https://atharvaparikh07.retool.com/embedded/public/1aa77790-fe01-49c4-9325-7720d9dcfd47)
 - ### [Trading Dashboard](https://atharvaparikh07.retool.com/embedded/public/d80a42d1-1e40-46b8-a1c9-70a02be42a6d)
+- ### [Netflix Movies Dashboard](https://atharvaparikh07.retool.com/embedded/public/1471a3fb-072a-4567-9e87-b34597d134a5)
 > ### click on respective folders to view screenshots of each application.

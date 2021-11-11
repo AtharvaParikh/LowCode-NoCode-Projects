@@ -7,6 +7,7 @@
 <a href="https://docs.google.com/spreadsheets/d/1__pY7kJNkujeeRkDfmVeAH6b8XMvjR8OtA3CsTEb_EQ/edit?usp=sharing"><img src="https://cdn-icons-png.flaticon.com/512/2965/2965327.png" width="50" height="50"></a>
 
 ### Images
+<img src="https://github.com/AtharvaParikh/LowCode-NoCode-Projects/blob/main/Netflix-Movies-Dashboard/images/Dashboard1.png" width="800" height="400">
+<img src="https://github.com/AtharvaParikh/LowCode-NoCode-Projects/blob/main/Netflix-Movies-Dashboard/images/Dashboard2.png" width="800" height="400">
 
-
-### NOTE: due to usage of a large dataset it takes maximum 30 seconds for dashboard to completely load the dataset.
+### NOTE: <br>Due to usage of a large dataset it takes maximum 30 seconds for dashboard to completely load the dataset.

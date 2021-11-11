@@ -11,5 +11,5 @@
 - ### [Crypto Dashboard](https://atharvaparikh07.retool.com/embedded/public/1471a3fb-072a-4567-9e87-b34597d134a5)
 - ### [Invoice Tracker](https://atharvaparikh07.retool.com/embedded/public/1aa77790-fe01-49c4-9325-7720d9dcfd47)
 - ### [Trading Dashboard](https://atharvaparikh07.retool.com/embedded/public/d80a42d1-1e40-46b8-a1c9-70a02be42a6d)
-- ### [Netflix Movies Dashboard](https://atharvaparikh07.retool.com/embedded/public/1471a3fb-072a-4567-9e87-b34597d134a5)
+- ### [Netflix Movies Dashboard](https://atharvaparikh.retool.com/embedded/public/432cb61c-6ef0-4edc-b56b-4bb8ada1fdda)
 > ### click on respective folders to view screenshots of each application.
